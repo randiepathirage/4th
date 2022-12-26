@@ -1,3 +1,14 @@
 # 4th
-Tutorials - 
-Data - data extraction from the WhatsApp messeges 
+- tutorials
+    - spam_classifier.ipynb - spam classifier
+    - SMSSpamCollection - data for spam classifier
+- data.ipynb - data extraction from the WhatsApp messeges 
+- openNMT
+    - openNMT.ipynb - openNMT implementation
+- imp.ipynb - original implementation from last year
+- implementation
+    - Imp_1.ipynb - version one of modification 
+    - Prev_Implementation_.ipynb - last year implementation in the thesis
+    - imp_2.ipynb -  version two of modification 
+    - seq2seq.ipynb - translation model implementated by me
+    - split_dataset_.ipynb - split dataset into word dataset
