@@ -4,11 +4,14 @@
     - SMSSpamCollection - data for spam classifier
 - data.ipynb - data extraction from the WhatsApp messeges 
 - openNMT
-    - openNMT.ipynb - openNMT implementation
+    - openNMT.ipynb - openNMT implementation for translation
 - imp.ipynb - original implementation from last year
 - implementation
     - Imp_1.ipynb - version one of modification 
-    - Prev_Implementation_.ipynb - last year implementation in the thesis
     - imp_2.ipynb -  version two of modification 
+    - imp_3.ipynb - trained model for full new dataset
+    - imp_4.ipynb - TU algorithm changes sent to sir
+    - imp_5.ipynb - after TU algorithm change run the model
+    - Prev_Implementation_.ipynb - last year implementation in the thesis
     - seq2seq.ipynb - translation model implementated by me
     - split_dataset_.ipynb - split dataset into word dataset
